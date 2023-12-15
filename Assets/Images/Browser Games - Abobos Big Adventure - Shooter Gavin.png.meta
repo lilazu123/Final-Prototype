@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: aa5fd6e2cf8e8564b9613db96375bddb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d94cb658d00efc44b9cd24753f152f4
+      internalID: 397831507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8b8f7b7c1186e4b92473930bae1a47
+      internalID: -1090608095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2ca574d6385c343b23373ac679b702
+      internalID: 102545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b0c4072c09e054c95a85ae43362012
+      internalID: 1600347726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aedb10c8d4695479034f0d6271a69f
+      internalID: -1466640297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 336
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beb00d51f98f314e80e573f0b2274e7
+      internalID: 1731815959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18733db33d947a34cbdbf496c8230a4e
+      internalID: 685071422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 328
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a59607ab438ec40a1bc30f45fed431
+      internalID: 1807069743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 328
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6897b50f75809740bd90601664d14cd
+      internalID: -950548218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 328
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c2f7ee578549a4dac04ac5b7d0083f
+      internalID: 966552970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 328
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cc17c42969ec4448da144ce072514d
+      internalID: 342025990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 328
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce50fbb8367c9e41925c80b11f18c38
+      internalID: 515482610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 328
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa11c17c43728f541ae23b9c593a9f56
+      internalID: -827321769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 299
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bcf06227cf70b47ae422bc6a52f7e6
+      internalID: 797339317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 300
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afff704d8205b3447be61fe4311abde9
+      internalID: 1383761842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 300
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e3944ca894208429d9646c260735db
+      internalID: -1626131579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 300
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6965200600c8c0f4aa49c9e21d2a91b5
+      internalID: -1589218451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 300
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a035fa68cb5f6be4295431efeac4b0ed
+      internalID: 1315892618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 300
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e701f43f5a6c08f42b4311cbcd2300f8
+      internalID: 136915853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 300
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49206739350e3b6428cd24c903271da5
+      internalID: -1508341915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 300
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a0472dedeb06444adf875f14b5f308
+      internalID: 997724192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 300
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19dbda93095758418837b4eb1f0c5d1
+      internalID: -1330790537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 300
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01e0678db549d34d93dc61fa5dde3b4
+      internalID: -25234017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 300
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba408aa74c86f664d9b245d942c246f6
+      internalID: -540755602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 300
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9455a25f4bed204b9e8376f0aebe38d
+      internalID: -1698124817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 273
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032249c2398de4845bf4abb02f676f2d
+      internalID: -935850504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d977b0cf9da824d84f27c14a12998a
+      internalID: -1506505228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 256
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deb72dbfdb1e424db5acd392c0a0e0c
+      internalID: -1485871900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 256
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f744ba51b41af1a41af320016695c616
+      internalID: -1235492285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69d22ce23048f6419264e698200c3a7
+      internalID: -1100357851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 212
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217838433e9adc544987918ca10114d8
+      internalID: 1889689207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 212
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f904c81b19dd04587be084bf9d6428
+      internalID: -98488179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_32
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 212
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fe1bc6c1575dd42a9fcc5c0967d668
+      internalID: 301976269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9a2f7a40aa6444ea7139cc2077dc8b
+      internalID: -1989039436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_34
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 164
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741665f631ad2dd489cbba999b061b6c
+      internalID: -2061519479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 164
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbb2c317aaf18b4aba42305a7de5591
+      internalID: -571894024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 164
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5794d90869c01de46b9708d9a719c287
+      internalID: -1654230317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 164
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e348f6eda633da84ab0b4271c9cab513
+      internalID: 1046180530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af83420b9fbf2cf4784865f754b5f8f3
+      internalID: -1927455379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 121
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0971c8428205a5459d1a6f17e47bfac
+      internalID: 815056277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_40
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 121
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3046fb19a71c74e86e7556db4f437e
+      internalID: 647819841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3317a7c2495bed44f9a228bd8fbcb670
+      internalID: -80436064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 95
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1950c6f1270b58f45b33d93b76e9364f
+      internalID: -341442375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_43
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 91
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a63cd69261791f4895e5c38a22c6359
+      internalID: -2037279976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_44
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739c76ef9e7528d459e30f767875a87e
+      internalID: -1027815708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb98ca105cf72d489048b5448dbb7bb
+      internalID: 401255414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_46
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 49
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d00543c9f42bb148bfa6be2076aa97c
+      internalID: -42661823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_47
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 49
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc430ebe963e4143905e99093c1f09c
+      internalID: -1985191281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1af290edf04544b8165224c968ce53
+      internalID: -943302902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731a28edd8d2e304ea632b0a30136b9d
+      internalID: -2058442461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_50
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c594e486772501498f21bf43048d887
+      internalID: 1346786069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b701b81085ebda42975c651a1b83e81
+      internalID: 303977376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 6
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642185dd225182047b7df96b1c6c5d81
+      internalID: -319014450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_53
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 9
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c757536c01a6f1499b81285f1b31636
+      internalID: 617320417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_54
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266fc816dae642941892ef7aecd0aaf8
+      internalID: -1397936724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Abobos Big Adventure - Shooter Gavin_55
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 9
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7336de027b147b44bcdfa938773e2c9
+      internalID: 324590364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Browser Games - Abobos Big Adventure - Shooter Gavin_0: 397831507
+      Browser Games - Abobos Big Adventure - Shooter Gavin_1: -1090608095
+      Browser Games - Abobos Big Adventure - Shooter Gavin_10: 342025990
+      Browser Games - Abobos Big Adventure - Shooter Gavin_11: 515482610
+      Browser Games - Abobos Big Adventure - Shooter Gavin_12: -827321769
+      Browser Games - Abobos Big Adventure - Shooter Gavin_13: 797339317
+      Browser Games - Abobos Big Adventure - Shooter Gavin_14: 1383761842
+      Browser Games - Abobos Big Adventure - Shooter Gavin_15: -1626131579
+      Browser Games - Abobos Big Adventure - Shooter Gavin_16: -1589218451
+      Browser Games - Abobos Big Adventure - Shooter Gavin_17: 1315892618
+      Browser Games - Abobos Big Adventure - Shooter Gavin_18: 136915853
+      Browser Games - Abobos Big Adventure - Shooter Gavin_19: -1508341915
+      Browser Games - Abobos Big Adventure - Shooter Gavin_2: 102545
+      Browser Games - Abobos Big Adventure - Shooter Gavin_20: 997724192
+      Browser Games - Abobos Big Adventure - Shooter Gavin_21: -1330790537
+      Browser Games - Abobos Big Adventure - Shooter Gavin_22: -25234017
+      Browser Games - Abobos Big Adventure - Shooter Gavin_23: -540755602
+      Browser Games - Abobos Big Adventure - Shooter Gavin_24: -1698124817
+      Browser Games - Abobos Big Adventure - Shooter Gavin_25: -935850504
+      Browser Games - Abobos Big Adventure - Shooter Gavin_26: -1506505228
+      Browser Games - Abobos Big Adventure - Shooter Gavin_27: -1485871900
+      Browser Games - Abobos Big Adventure - Shooter Gavin_28: -1235492285
+      Browser Games - Abobos Big Adventure - Shooter Gavin_29: -1100357851
+      Browser Games - Abobos Big Adventure - Shooter Gavin_3: 1600347726
+      Browser Games - Abobos Big Adventure - Shooter Gavin_30: 1889689207
+      Browser Games - Abobos Big Adventure - Shooter Gavin_31: -98488179
+      Browser Games - Abobos Big Adventure - Shooter Gavin_32: 301976269
+      Browser Games - Abobos Big Adventure - Shooter Gavin_33: -1989039436
+      Browser Games - Abobos Big Adventure - Shooter Gavin_34: -2061519479
+      Browser Games - Abobos Big Adventure - Shooter Gavin_35: -571894024
+      Browser Games - Abobos Big Adventure - Shooter Gavin_36: -1654230317
+      Browser Games - Abobos Big Adventure - Shooter Gavin_37: 1046180530
+      Browser Games - Abobos Big Adventure - Shooter Gavin_38: -1927455379
+      Browser Games - Abobos Big Adventure - Shooter Gavin_39: 815056277
+      Browser Games - Abobos Big Adventure - Shooter Gavin_4: -1466640297
+      Browser Games - Abobos Big Adventure - Shooter Gavin_40: 647819841
+      Browser Games - Abobos Big Adventure - Shooter Gavin_41: -80436064
+      Browser Games - Abobos Big Adventure - Shooter Gavin_42: -341442375
+      Browser Games - Abobos Big Adventure - Shooter Gavin_43: -2037279976
+      Browser Games - Abobos Big Adventure - Shooter Gavin_44: -1027815708
+      Browser Games - Abobos Big Adventure - Shooter Gavin_45: 401255414
+      Browser Games - Abobos Big Adventure - Shooter Gavin_46: -42661823
+      Browser Games - Abobos Big Adventure - Shooter Gavin_47: -1985191281
+      Browser Games - Abobos Big Adventure - Shooter Gavin_48: -943302902
+      Browser Games - Abobos Big Adventure - Shooter Gavin_49: -2058442461
+      Browser Games - Abobos Big Adventure - Shooter Gavin_5: 1731815959
+      Browser Games - Abobos Big Adventure - Shooter Gavin_50: 1346786069
+      Browser Games - Abobos Big Adventure - Shooter Gavin_51: 303977376
+      Browser Games - Abobos Big Adventure - Shooter Gavin_52: -319014450
+      Browser Games - Abobos Big Adventure - Shooter Gavin_53: 617320417
+      Browser Games - Abobos Big Adventure - Shooter Gavin_54: -1397936724
+      Browser Games - Abobos Big Adventure - Shooter Gavin_55: 324590364
+      Browser Games - Abobos Big Adventure - Shooter Gavin_6: 685071422
+      Browser Games - Abobos Big Adventure - Shooter Gavin_7: 1807069743
+      Browser Games - Abobos Big Adventure - Shooter Gavin_8: -950548218
+      Browser Games - Abobos Big Adventure - Shooter Gavin_9: 966552970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
